@@ -28,8 +28,8 @@
 | 🟨 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟩 git               |
 | 🟨 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟩 github            |
-| 🟩 ...spread         |                       | 🟩 lambda             | 🟨 global           | 🟨 node.js           |
-| 🟨 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
+| 🟨 ...spread         |                       | 🟩 lambda             | 🟨 global           | 🟨 node.js           |
+| 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
 ## Multi-paradigm programming
