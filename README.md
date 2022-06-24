@@ -4,6 +4,6 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
+<code>🪙 [Rates]([RATES.md](https://github.com/bLuDd1/todo-list))</code><br>
 <code>💬 telegram: [@demasmxrxz](https://telegram.me/demasmxrxz)</code>
 <code>📫 [dtavluj@gmail.com](mailto:dtavluj@gmail.com)</code>
